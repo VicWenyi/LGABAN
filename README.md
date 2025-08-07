@@ -1,7 +1,8 @@
 # LGABAN: Integrating Multi-Scale Graph and Sequence Features with Attention Networks for enhanced prediction of drug-protein interactions
 
 ## Framework
-<img width="2184" height="1321" alt="LGABAN流程图" src="https://github.com/user-attachments/assets/170e88c0-2004-4355-b8a7-f255e3f10d54" />
+<img width="2184" height="1309" alt="LGABAN流程图" src="https://github.com/user-attachments/assets/042f7fa0-bb35-432c-90d8-245dd9b1afa0" />
+
 
 ## System Requirements
 The source code developed in Python 3.8 using PyTorch 2.4.0. The required python dependencies are given below. LGABAN is supported for any standard computer and operating system (Windows/macOS/Linux) with enough RAM to run. There is no additional non-standard hardware requirements.
